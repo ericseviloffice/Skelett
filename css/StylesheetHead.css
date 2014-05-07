@@ -1,0 +1,14 @@
+Theme Name: WpGuru 960
+Theme URI: http://www.wordpressguru.se/bygg-ett-wordpress-tema-med-960-grid-system/
+Description: A shell theme with 960 Grid System
+Author: Kristoffer Emanuelsson
+Author URI: http://www.wordpressguru.se/
+Tags: 960, grid system, framework
+Version: 1.0--frivilligt
+
+
+
+.wrapper 
+{width: 960px;}
+
+.column {margin: 0 10px 0}
